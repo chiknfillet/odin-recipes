@@ -1,0 +1,25 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+li {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+p {
+    font-size: 20px;
+}
